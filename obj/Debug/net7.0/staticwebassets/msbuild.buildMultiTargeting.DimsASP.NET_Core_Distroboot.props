@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DimsASP.NET_Core_Distroboot.props" />
+</Project>

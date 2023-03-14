@@ -1,0 +1,50 @@
+﻿@page
+@model DimsASP.NET_Core_Distroboot.Pages.Distros.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Distro</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Distro.ID" />
+            <div class="form-group">
+                <label asp-for="Distro.Name" class="control-label"></label>
+                <input asp-for="Distro.Name" class="form-control" />
+                <span asp-validation-for="Distro.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Distro.Url" class="control-label"></label>
+                <input asp-for="Distro.Url" class="form-control" />
+                <span asp-validation-for="Distro.Url" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Distro.Description" class="control-label"></label>
+                <input asp-for="Distro.Description" class="form-control" />
+                <span asp-validation-for="Distro.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Distro.Size" class="control-label"></label>
+                <input asp-for="Distro.Size" class="form-control" />
+                <span asp-validation-for="Distro.Size" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

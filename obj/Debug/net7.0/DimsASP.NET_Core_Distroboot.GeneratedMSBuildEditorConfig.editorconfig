@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DimsASP.NET_Core_Distroboot
+build_property.RootNamespace = DimsASP.NET_Core_Distroboot
+build_property.ProjectDir = C:\Users\Admin\Desktop\DotnetDimi\BlazorDistroboot\DimsASP.NET_Core_Distroboot\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\DotnetDimi\BlazorDistroboot\DimsASP.NET_Core_Distroboot
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Distros/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdHJvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Distros/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdHJvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Distros/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdHJvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Distros/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdHJvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Distros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdHJvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DotnetDimi/BlazorDistroboot/DimsASP.NET_Core_Distroboot/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-93xa8a7zmc
